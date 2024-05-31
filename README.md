@@ -1,0 +1,2 @@
+# enjoy_review
+基于SpringBoot+Redis+MyBatisPlus+MySQL的仿大众点评系统构建的后端项目。通过本项目，模拟展示了用户点评、商家信息展示、优惠卷秒杀等核心功能,展示Redis在实践开发场景中的应用
